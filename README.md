@@ -12,17 +12,61 @@ work. If not, see <http://creativecommons.org/licenses/by-nc-sa/4.0/>.
 
 ## Descrição do problema
 
-Jogo para testar conhecimento de bases numéricas.
+Pretende-se que os alunos implementem um jogo para testar o seu conhecimento de bases numéricas.
 
 ## Material a entregar
 
-* Código devidamente comentado e indentado.
-* Ficheiro README.md contendo o relatório.
+* Código devidamente comentado e indentado:
+    - Deve implementar as funcionalidades pedidas.
+    - Deve compilar sem erros no compilador [GCC] e/ou [Clang] com as opções
+      `-std=c99 -Wall -Wextra -Wpedantic`.
+* Fluxograma em formato SVG
+* Relatório em formato [Markdown], contendo as seguintes secções:
+    - Cabeçalho:
+        - Deve conter título, bem como nomes e números de aluno dos autores.
+    - Introdução
+    - Metodologia:
+        * Fluxograma em formato SVG
+    - Resultados
+    - Conclusões
 
-## Forma e data de entrega
+## Forma de trabalho e data de entrega
 
-* Entrega através do GitHub.
-* 5 de novembro.
+A forma de obter, editar e submeter o trabalho será através do [GitHub]. O GitHub é uma plataforma de alojamento de código baseada em [Git], que por sua vez é um sistema de gestão de código fonte, essencial para desenvolver qualquer tipo de projetos.
+
+* [Aprender Git em 15 minutos][git-tutorial]
+* [GitHub Hello World](https://guides.github.com/activities/hello-world/)
+
+O procedimento para este trabalho é o seguinte:
+
+1. Criar uma conta no [GitHub](https://github.com/join), caso ainda não tenhas uma.
+2. Ir até ao [repositório] do projeto e criar uma ramificação  (*fork*) do mesmo na tua conta (botão **Fork** no canto superior direito).
+3. Obter uma cópia local (no teu PC) da tua ramificação do projeto com o comando `git clone https://github.com/OTeuUserName/ic2017p1.git` (substituir `OTeuUserName` pelo teu nome de utilizador no GitHub).
+4. Dentro da pasta do projeto, chamada *ic2017p1*, criar uma sub-pasta com os números de aluno que constitutem o grupo, por exemplo *a21700000_a21700001*.
+5. Será dentro desta sub-pasta que deverão ser colocados os três ficheiros pedidos (código C, fluxograma em formato SVG e relatório em formato Markdown).
+6. Cada edição minimamente significativa de código deve inserida na árvore git.
+7. Após o projeto estar terminado deve ser carregado na tua conta GitHub, e deve ser solicitado um *pull request* (pedido de integração)  à árvore original do projecto (VideojogosLusofona/ic2017p1).
+
+Atenção que a entrega do projeto (*pull request*) deverá ser feita até às **23h de 5 de novembro de 2017**.
+
+## Software necessário e/ou útil para elaboração do projeto
+
+* Compilador C99:
+    - [GCC]
+    - [Clang]
+* Editor de C e Markdown:
+    - [Gedit]
+    - [Geany]
+    - [Code::Blocks]
+    - [Atom] (suporta pré-visualização de Markdown)
+    - [XCode] (só macOS)
+    - [Notepad++] (só Windows)
+    - [Remarkable] (só Markdown, com  pré-visualização)
+    - ...
+* [Git] ([tutorial](https://try.github.io/levels/1/challenges/1))
+    - Ubuntu: instalar com comando `sudo apt install git`
+    - macOS: incluido no XCode
+    - Windows: [download](https://git-scm.com/download/win)
 
 ## Honestidade académica
 
@@ -81,3 +125,17 @@ O enunciado e restante documentação são disponibilizados através da licença
 [ULHT ]:https://www.ulusofona.pt/
 [aed]:https://fenix.tecnico.ulisboa.pt/disciplinas/AED-2/2009-2010/2-semestre/honestidade-academica
 [ist]:https://tecnico.ulisboa.pt/pt/
+ [Markdown]:https://guides.github.com/features/mastering-markdown/
+ [GCC]:https://gcc.gnu.org/
+ [Clang]:https://clang.llvm.org/
+[Gedit]:https://wiki.gnome.org/Apps/Gedit
+[Geany]:https://www.geany.org/
+[Code::Blocks]:http://www.codeblocks.org/
+[Atom]:https://atom.io/
+[XCode]:https://developer.apple.com/xcode/
+[Notepad++]:https://notepad-plus-plus.org/
+[Remarkable]:https://remarkableapp.github.io/
+[Git]:https://git-scm.com/
+[repositório]:https://github.com/VideojogosLusofona/ic2017p1
+[GitHub]:https://github.com/
+[git-tutorial]:https://try.github.io/levels/1/challenges/1
