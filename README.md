@@ -60,18 +60,44 @@ Acertaste 2 vez(es)!
 
 A forma de obter, editar e submeter o trabalho será através do [Moodle] e do [GitHub]. Os três ficheiros devem ser entregues no Moodle até às **23h de 12 de novembro de 2017**, e depois desta data os ficheiros devem ser carregados (_pushed_) no GitHub e deve ser solicitada uma integração dos mesmos (*pull request*) no [repositório] principal do projeto até às **23h de 13 de novembro de 2017**. Os ficheiros submetidos no Moodle devem ser exactamente os mesmos cuja integração será posteriormente solicitada no GitHub.
 
-O procedimento para este trabalho é o seguinte:
+O procedimento simplificado para este trabalho é o seguinte:
 
 1. Criar uma conta no [GitHub](https://github.com/join), caso ainda não tenhas uma.
-2. Ir até ao [repositório] do projeto e criar uma cópia (*fork*) do mesmo na tua conta (botão **Fork** no canto superior direito).
+2. Ir até ao [repositório] principal do projeto (tipicamente denominado _upstream_) e criar uma cópia (*fork*) do mesmo na tua conta (botão **Fork** no canto superior direito). A tua cópia no GitHub é chamada _origin_.
 3. Obter uma cópia local (no teu PC) da tua cópia do projeto com o comando `git clone https://github.com/OTeuUserName/ic2017p1.git` (substituir `OTeuUserName` pelo teu nome de utilizador no GitHub).
-4. Já dentro da pasta do projeto, chamada *ic2017p1*, criar uma sub-pasta com os números de aluno que constitutem o grupo, por exemplo *a21700000_a21700001*.
-5. Será dentro desta sub-pasta que deverão ser colocados os três ficheiros pedidos (código C, fluxograma em formato SVG e relatório em formato Markdown).
-6. Cada edição minimamente significativa a algum dos três ficheiros deve inserida na árvore git com um _commit_, realizado pelo aluno que realizou a modificação, por exemplo:
-    - `$ git add projeto.c`
-    - `$ git commit`
-7. Se os alunos que constitutem o grupo desejarem colaborar remotamente devem fazê-lo através de um repositório privado. Infelizmente os repositórios do [GitHub] são públicos, mas serviços alternativos como [GitLab], [NotABug] ou [BitBucket] oferecem repositórios Git privados.
-8. Após e só após a data limite de submissão no Moodle (**23h de 12 de novembro de 2017**), o projeto deve ser carregado (_pushed_) na tua conta GitHub, e deve ser solicitado um *pull request* (pedido de integração) na árvore original do projeto (VideojogosLusofona/ic2017p1).
+4. Já dentro da pasta do projeto, chamada *ic2017p1*, criar um ramo (_branch_) para desenvolvimento do trabalho com os seguintes comandos:
+    - `$ git branch meu_ramo`
+    - `$ git checkout meu_ramo`
+    - O nome `meu_ramo` pode ser substituído por qualquer outro nome.
+    - O primeiro comando cria o ramo, o segundo comando muda o git para esse ramo. Os dois comandos podem ser compactados num só: `$ git checkout -b meu_ramo`.
+5. Uma vez no novo ramo, criar uma sub-pasta com os números de aluno que constituem o grupo, por exemplo *a21700000_a21700001*.
+6. Será dentro desta sub-pasta que deverão ser colocados os três ficheiros pedidos (código C, fluxograma em formato SVG e relatório em formato Markdown). Para cada ficheiro colocado dentro desta pasta, e/ou para para alteração efetuada num dos ficheiros, executar os seguintes comandos:
+    - `$ git add nome_do_ficheiro`
+    - `$ git commit -m "Descrição das alterações efetuadas"`
+    - O primeiro comando assume que estamos dentro da sub-pasta criada, por exemplo *a21700000_a21700001*.
+    - Uma vez que são pedidos três ficheiros, deverão existir no mínimo três *commits*, ou seja, os comandos anteriores devem ser executados pelo menos três vezes.
+7. Após e só após a data limite de submissão no Moodle (**23h de 12 de novembro de 2017**), o projeto deve ser carregado (_pushed_) na tua conta GitHub (_origin_) com o seguinte comando:
+    - `$ git push -u origin meu_ramo`
+    - A opção `-u` é necessária pois nesta fase o teu repositório no GitHub ainda não conhece o ramo chamado `meu_ramo`.
+8. Uma vez confirmado que o _push_ foi realizado com sucesso (a sub-pasta e os ficheiros devem aparecer na tua cópia do projeto no GitHub no _branch_ `meu_ramo`), deve ser solicitado um *pull request* (pedido de integração) na árvore original do projeto. Para o efeito basta clicar no botão **New pull request** e solicitar a seguinte integração:
+    - _Base fork_ **VideojogosLusofona/ic2017p1**, _base_ **master** (local onde queres integrar as tuas alterações).
+    - _Head fork_ **OTeuUserName/ic2017p1**, _compare_ **meu_ramo** (as tuas alterações que queres ver integradas).
+    - Clicar no botão verde **Create pull request**, e deixa uma pequena descrição da razão do pedido de integração, clicando depois novamente em **Create pull request**.
+    - A integração pode ser solicitada até às **23h de 13 de novembro de 2017**.
+9. (Opcional/Avançado) Após todos os _pull requests_ serem aceites, os alunos podem atualizar o ramo _master_ do seu _fork_ no GitHub (_origin_) de acordo com todas as alterações feitas ao repositório principal do projeto (_upstream_):
+    - Os seguintes comandos assumem que estamos na pasta **ic2017p1** no PC do aluno.
+    - Adicionar o repositório _upstream_ como repositório remoto na cópia local no PC do aluno:
+    - `$ git remote add upstream https://github.com/VideojogosLusofona/ic2017p1.git`
+    - Buscar (_fetch_) os ramos e respetivos _commits_ presentes no repositório _upstream_:
+    - `$ git fetch upstream`
+    - Mudar para o ramo `master` local:
+    - `$ git checkout master`
+    - Juntar (_merge_) as alterações do ramo `master` do repositório _upstream_ no ramo _master_ local:
+    - `$ git merge upstream/master`
+    - Empurrar (_push_) o ramo `master` local para o teu _fork_ no GitHub (_origin_):
+    - `$ git push origin master`
+    - Nesta fase podes também eliminar o `meu_ramo`, uma vez que os _commits_ presentes no mesmo já estão integrados no ramo `master`:
+    - `$ git branch -d meu_ramo`
 
 ## Sobre o Git e GitHub
 
@@ -94,7 +120,9 @@ O GitHub é uma plataforma de alojamento de código baseada em [Git], que por su
     - [Atom] (suporta pré-visualização de Markdown)
     - [XCode] (só macOS)
     - [Notepad++] (só Windows)
-    - [Remarkable] (só Markdown, com  pré-visualização)
+    - [Remarkable] (só Markdown, com pré-visualização)
+    - [StackEdit] (editor online, só Markdown, com pré-visualização)
+    - [(GitHub-Flavored) Markdown Editor]  (editor online, só Markdown, com pré-visualização)
     - ...
 * [Git]
     - Linux: instalar a partir do *package manager*/centro de software
@@ -190,7 +218,9 @@ O enunciado e restante documentação são disponibilizados através da licença
 [repositório]:https://github.com/VideojogosLusofona/ic2017p1
 [GitHub]:https://github.com/
 [git-tutorial]:https://try.github.io/levels/1/challenges/1
-[Moodle]: https://secure.grupolusofona.pt/ulht/moodle/
-[GitLab]: https://gitlab.com/
-[BitBucket]: https://bitbucket.org/
-[NotABug]: https://notabug.org/
+[Moodle]:https://secure.grupolusofona.pt/ulht/moodle/
+[GitLab]:https://gitlab.com/
+[BitBucket]:https://bitbucket.org/
+[NotABug]:https://notabug.org/
+[StackEdit]:https://stackedit.io/editor
+ [(GitHub-Flavored) Markdown Editor]:https://jbt.github.io/markdown-editor/
