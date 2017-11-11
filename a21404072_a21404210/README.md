@@ -25,6 +25,6 @@
 
  * [Stackoverflow](https://stackoverflow.com/questions/29884807/generating-random-string-unsigned-char-in-c)
  * [Cprogramming](https://cboard.cprogramming.com/c-programming/71067-getting-random-number-between-1-6-a.html)
- * [highlight.js](http://softwaremaniacs.org/soft/highlight/en/) for syntax highlighting in output code blocks
- * [js-deflate](https://github.com/dankogai/js-deflate) for gzipping of data to make it fit in URLs
-* troca de ideias na última aula, sugerindo a utilização do switch
+ * [Progamiz](https://www.programiz.com/c-programming/c-switch-case-statement )
+ * Exemplos providenciados pelo professor no moodle.
+ * Troca de ideias na última aula, sugerindo a utilização do switch.
