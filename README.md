@@ -78,11 +78,11 @@ O procedimento simplificado para este trabalho é o seguinte:
     - Uma vez que são pedidos três ficheiros, deverão existir no mínimo três *commits*, ou seja, os comandos anteriores devem ser executados pelo menos três vezes.
 7. Após e só após a data limite de submissão no Moodle (**23h de 12 de novembro de 2017**), o projeto deve ser carregado (_pushed_) na tua conta GitHub (_origin_) com o seguinte comando:
     - `$ git push -u origin meu_ramo`
-    - A opção `-u` é necessária pois nesta fase o teu repositório no GitHub ainda não conhece o ramo chamado `meu_ramo`.
-8. Uma vez confirmado que o _push_ foi realizado com sucesso (a sub-pasta e os ficheiros devem aparecer na tua cópia do projeto no GitHub no _branch_ `meu_ramo`), deve ser solicitado um *pull request* (pedido de integração) na árvore original do projeto. Para o efeito basta clicar no botão **New pull request** e solicitar a seguinte integração:
+    - A opção `-u` é necessária pois nesta fase o teu repositório no GitHub (_origin_) ainda não conhece o ramo chamado `meu_ramo`.
+8. Uma vez confirmado que o _push_ foi realizado com sucesso (a sub-pasta e os ficheiros devem aparecer na _origin_, _branch_ `meu_ramo`), deve ser solicitado um *pull request* (pedido de integração) na árvore original do projeto (_upstream_). Para o efeito basta clicar no botão **New pull request** e solicitar a seguinte integração:
     - _Base fork_ **VideojogosLusofona/ic2017p1**, _base_ **master** (local onde queres integrar as tuas alterações).
     - _Head fork_ **OTeuUserName/ic2017p1**, _compare_ **meu_ramo** (as tuas alterações que queres ver integradas).
-    - Clicar no botão verde **Create pull request**, e deixa uma pequena descrição da razão do pedido de integração, clicando depois novamente em **Create pull request**.
+    - Clica no botão verde **Create pull request**, e deixa uma pequena descrição da razão do pedido de integração, clicando depois novamente em **Create pull request**.
     - A integração pode ser solicitada até às **23h de 13 de novembro de 2017**.
 9. (Opcional/Avançado) Após todos os _pull requests_ serem aceites, os alunos podem atualizar o ramo _master_ do seu _fork_ no GitHub (_origin_) de acordo com todas as alterações feitas ao repositório principal do projeto (_upstream_):
     - Os seguintes comandos assumem que estamos na pasta **ic2017p1** no PC do aluno.
@@ -101,7 +101,7 @@ O procedimento simplificado para este trabalho é o seguinte:
 
 ## Sobre o Git e GitHub
 
-O GitHub é uma plataforma de alojamento de código baseada em [Git], que por sua vez é um sistema de gestão de código fonte, essencial para desenvolver qualquer tipo de projetos.
+O [Git] é um sistema de gestão de código fonte, essencial para desenvolver qualquer tipo de projetos. O [GitHub], e plataformas semelhantes tais como o [GitLab], [BitBucket] e [NotABug], oferecem repositórios Git remotos e vários serviços associados (_tracking_ de _bugs_, wikis, visualização de código, integração de ramos e por ai fora). Alguns tutoriais úteis e interessantes:
 
 * [Aprender Git em 15 minutos][git-tutorial]
 * [Learn Git](https://www.codecademy.com/learn/learn-git)
