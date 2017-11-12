@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#define MAXRANDOMNUMBER 200 // limitando o numero máximo do rand()
+#define MAXRANDOMNUMBER 256 // limitando o numero máximo do rand()
 
 int main(){
   unsigned int nPerguntas,numero,resposta,nAcertos; // declaração das variáveis
