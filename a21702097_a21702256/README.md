@@ -13,6 +13,7 @@ Foi necessário estruturar as ideias, de modo a conseguir representar de forma c
 Seguindo as indicações dadas pelo professor Nuno Fachada, foi convertido para código o processo  enunciado.
 
 O jogo inicia, através da função `main()`:
+
 ![Função main()](Funcao_main.svg "Função main()")
 
 Começa por chamar a função:
