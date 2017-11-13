@@ -9,16 +9,16 @@
 
 ## Solução:
 
-![Fluxograma](https://octodex.github.com/images/yaktocat.png)
+![Fluxograma](http://i64.tinypic.com/rurzgj.png)
 
 > Utilizou-se um switch (para cada tipo de pergunta), dentro de um ciclo for (para o número desejado de perguntas)
 
 ## Matéria Aprendida:
 
-* Opções Formatação C
-* Randomização - Conhecimento do Rand
-* Utilização de C99 obrigatoria (for loop no inicio)
-* Utilização do Switch
+* Opções formatação C
+* Randomização - utilização do rand
+* Utilização de C99 obrigatoria (for loop no início)
+* Utilização do switch em vez de else if
 
 
 ### Referências:
