@@ -10,7 +10,8 @@
 ## Descrição da solução
 
 Foi necessário estruturar as ideias, de modo a conseguir representar de forma clara e objetiva a forma de chegar à solução do problema.
-Seguindo as indicações dadas pelo professor Nuno Fachada, foi convertido para código o processo  enunciado.
+Seguindo as indicações dadas pelo professor Nuno Fachada, foi convertido para código o processo enunciado.
+De seguida está uma breve demonstração da resolução, juntamente com os fluxogramas correspondentes.
 
 O jogo inicia, através da função `main()`:
 
@@ -37,8 +38,6 @@ De seguida, executa 3 funções, por ordem, até o número de perguntas declarad
 ![Função perguntaEVerifica()](Funcao_perguntaEVerifica.svg "Função perguntaEVerifica()")
 
 Após serem feitas as perguntas definidas, mostra **quantas estavam corretas**.
-
-De seguida estão os fluxogramas que serviram de apoio para a implementação da solução:
 
 ## Conclusões e matéria aprendida
 
