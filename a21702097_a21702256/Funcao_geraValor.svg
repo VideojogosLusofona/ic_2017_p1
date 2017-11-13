@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="14cm" height="15cm" viewBox="446 5 273 294" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <path style="fill: #ffffff" d="M 544.667 6 L 623.333,6 C 634.195,6 643,14.5066 643,25 C 643,35.4934 634.195,44 623.333,44 L 544.667,44 C 533.805,44 525,35.4934 525,25 C 525,14.5066 533.805,6 544.667,6z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 544.667 6 L 623.333,6 C 634.195,6 643,14.5066 643,25 C 643,35.4934 634.195,44 623.333,44 L 544.667,44 C 533.805,44 525,35.4934 525,25 C 525,14.5066 533.805,6 544.667,6"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="584" y="30">
+      <tspan x="584" y="30">Início</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="449" y="74" width="269.075" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="449" y="74" width="269.075" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="583.537" y="97.8">
+      <tspan x="583.537" y="97.8">Gera valor aleatório entre 0 e 255</tspan>
+      <tspan x="583.537" y="113.8">(8 bits) (unsigned char)</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="584" y1="44" x2="583.688" y2="64.2651"/>
+    <polygon style="fill: #000000" points="583.572,71.7642 578.727,61.6883 583.688,64.2651 588.726,61.8425 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="583.572,71.7642 578.727,61.6883 583.688,64.2651 588.726,61.8425 "/>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 543.567 260 L 622.233,260 C 633.095,260 641.9,268.507 641.9,279 C 641.9,289.493 633.095,298 622.233,298 L 543.567,298 C 532.705,298 523.9,289.493 523.9,279 C 523.9,268.507 532.705,260 543.567,260z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 543.567 260 L 622.233,260 C 633.095,260 641.9,268.507 641.9,279 C 641.9,289.493 633.095,298 622.233,298 L 543.567,298 C 532.705,298 523.9,289.493 523.9,279 C 523.9,268.507 532.705,260 543.567,260"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="582.9" y="284">
+      <tspan x="582.9" y="284">Fim</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="583.537" y1="128" x2="583.086" y2="154.258"/>
+    <polygon style="fill: #000000" points="582.957,161.756 578.13,151.672 583.086,154.258 588.128,151.844 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="582.957,161.756 578.13,151.672 583.086,154.258 588.128,151.844 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="582.628" y1="219.999" x2="582.834" y2="250.264"/>
+    <polygon style="fill: #000000" points="582.885,257.764 577.817,247.798 582.834,250.264 587.817,247.73 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="582.885,257.764 577.817,247.798 582.834,250.264 587.817,247.73 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="447.9" y="165" width="269.075" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="447.9" y="165" width="269.075" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="582.438" y="196.8">
+      <tspan x="582.438" y="196.8">Retorna valor</tspan>
+    </text>
+  </g>
+</svg>

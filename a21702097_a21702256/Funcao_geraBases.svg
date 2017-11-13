@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="14cm" height="24cm" viewBox="445 5 278 476" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <path style="fill: #ffffff" d="M 544.667 6 L 623.333,6 C 634.195,6 643,14.5066 643,25 C 643,35.4934 634.195,44 623.333,44 L 544.667,44 C 533.805,44 525,35.4934 525,25 C 525,14.5066 533.805,6 544.667,6z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 544.667 6 L 623.333,6 C 634.195,6 643,14.5066 643,25 C 643,35.4934 634.195,44 623.333,44 L 544.667,44 C 533.805,44 525,35.4934 525,25 C 525,14.5066 533.805,6 544.667,6"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="584" y="30">
+      <tspan x="584" y="30">Início</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="446.887" y="69" width="275.113" height="70"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="446.887" y="69" width="275.113" height="70"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="584.444" y="92.8">
+      <tspan x="584.444" y="92.8">Declara array com bases, base original, </tspan>
+      <tspan x="584.444" y="108.8">base convertida, e gera aleatoriamente</tspan>
+      <tspan x="584.444" y="124.8">um valor para cada base</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="584" y1="44" x2="584.271" y2="59.2655"/>
+    <polygon style="fill: #000000" points="584.404,66.7643 579.227,56.8546 584.271,59.2655 589.226,56.6771 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="584.404,66.7643 579.227,56.8546 584.271,59.2655 589.226,56.6771 "/>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 540.567 441 L 619.233,441 C 630.095,441 638.9,449.507 638.9,460 C 638.9,470.493 630.095,479 619.233,479 L 540.567,479 C 529.705,479 520.9,470.493 520.9,460 C 520.9,449.507 529.705,441 540.567,441z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 540.567 441 L 619.233,441 C 630.095,441 638.9,449.507 638.9,460 C 638.9,470.493 630.095,479 619.233,479 L 540.567,479 C 529.705,479 520.9,470.493 520.9,460 C 520.9,449.507 529.705,441 540.567,441"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="579.9" y="465">
+      <tspan x="579.9" y="465">Fim</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="584.444" y1="139" x2="583.443" y2="161.272"/>
+    <polygon style="fill: #000000" points="583.106,168.764 578.56,158.55 583.443,161.272 588.55,158.999 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="583.106,168.764 578.56,158.55 583.443,161.272 588.55,158.999 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="580.555" y1="402.006" x2="580.064" y2="431.265"/>
+    <polygon style="fill: #000000" points="579.938,438.764 575.106,428.682 580.064,431.265 585.105,428.85 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="579.938,438.764 575.106,428.682 580.064,431.265 585.105,428.85 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="464.9" y="172" width="234.1" height="45"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="464.9" y="172" width="234.1" height="45"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="581.95" y="199.3">
+      <tspan x="581.95" y="199.3">Retorna a base original gerada</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="462.55" y="356" width="236.8" height="45"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="462.55" y="356" width="236.8" height="45"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="580.95" y="383.3">
+      <tspan x="580.95" y="383.3">Retorna a base para converter gerada</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="464.9" y="250.5" width="236.8" height="70"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="464.9" y="250.5" width="236.8" height="70"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="583.3" y="274.3">
+      <tspan x="583.3" y="274.3">Percorre o array para remover a base</tspan>
+      <tspan x="583.3" y="290.3">previamente gerada para que</tspan>
+      <tspan x="583.3" y="306.3">não se repita</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="582.298" y1="217.983" x2="582.621" y2="239.763"/>
+    <polygon style="fill: #000000" points="582.733,247.262 577.585,237.337 582.621,239.763 587.584,237.189 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="582.733,247.262 577.585,237.337 582.621,239.763 587.584,237.189 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="582.391" y1="321.488" x2="581.79" y2="345.262"/>
+    <polygon style="fill: #000000" points="581.6,352.759 576.855,342.636 581.79,345.262 586.851,342.889 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="581.6,352.759 576.855,342.636 581.79,345.262 586.851,342.889 "/>
+  </g>
+</svg>
