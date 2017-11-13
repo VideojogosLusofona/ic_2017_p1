@@ -1,7 +1,7 @@
 # 1º Projeto de Introdução à Computação 2017/2018<p> #
 
-#####Madalena Marcelino (a21700854)
-#####Rui Martins (a21701462)
+#### Madalena Marcelino (a21700854)
+#### Rui Martins (a21701462)
 
 ## Descrição da solução ##
 Para a realização deste trabalho criámos três variáveis iniciais, uma para receber
