@@ -1,3 +1,75 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="294px" height="391px" version="1.1" content="&lt;mxfile userAgent=&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36&quot; version=&quot;7.6.7&quot; editor=&quot;www.draw.io&quot; type=&quot;device&quot;&gt;&lt;diagram id=&quot;8a7987d4-787e-c3ba-eb2c-7b089affd1c4&quot; name=&quot;Page-1&quot;&gt;7VhNc9sgEP01umYsYVnOMXE+2pl2JtMc2hyJRCRaSagIf/XXdxFggZATN3GaHOJDAg8Wln37FuwALarNNcdN8ZVlpAyiSbYJ0EUQRcl8Bn8lsFXAdDpRQM5ppqCwB27pH6JBM21JM9I6EwVjpaCNC6asrkkqHAxzztbutAdWurs2OCcecJvi0ke/00wUCp1HSY9/IjQvzM7h7FSN3OP0V87Zstb7BRF66D5quMJmLX3QtsAZW1sQugzQgjMmVKvaLEgpQ2vCpuyu9ozu/OakFocYRMpghculPvrnmqaUae/E1kQEzCD40DlfF1SQ2wancmQN9ANWiKqEXghN3wPt1IpwQTYWpD26Jqwigm9hih5FSEdn62bF2qJCQ4XFgrHCmvx8t3AfAGjoGIzHIw79k2eQGrrLuChYzmpcXvboecc3kStM3FiQDRU/JHwS696dGanBMWtIdu/0Aj+JEFutCbwUDKB+3y+MNU9FumVLnmrvkYLkIVw5YZ4TbZYk43RwUmJBV67hWHS16Q2j4ElPYzKgMRoQpHzQVj1HZ5zjrTWtkRPax/YJ3X3CyYBytWKfALszHpQTyNPIBUlLzLEqNp2vKas69bdQtaKFbsI/xmlOgTYHhKolxUAzrGCJ5UStVxIswAhXQCrgsxI4Os/oCpq5bC4r5QrjintplGK5kl5dWcCZLCMvp92MfX1Fww3gUJT4io5OkS/p+AiSNqXZ4u+KVu+qwKGReLxWhUsSLxzfCKRc3aXfWOZ2uSkz7K2TKEauzuORLEKxH7bpMcLmZ5GfQnV2Jh8f0IP60LY0PcZ1sKeAP1H3I7/Mo/HoWtGLR3LOYC+8DHYvHvMiTAakKOe9y8BfaHCrTA+8VZ5R+I0ELc5vCE8Z551ArPKvCzEnFYN8doXUcLLa1fOdlozJ76Ws2biScqnv26Yj3Kv6dbBAwRmSW3ZrctJQgV+v2HuiHMm3/TqdJg5DO+ptnZo5x67289Dj7F3r1JRjW6jzyXh8P5S6l3X/e8zopWYeTOoB1in1eJfby0QzuNzQ5D9ebnP/iXtE0TxPGKb4OsKIPoTxj8KYvv9yaDOsHutvxfDwGysaiutQhtHs9CSZWJ/YXXeYOc8mHLr9j0Vqev+DHLr8Cw==&lt;/diagram&gt;&lt;/mxfile&gt;" resource="https://www.draw.io/?title=Copy%20of%20Funcao_geraValor.svg&amp;client=1" style="background-color: rgb(255, 255, 255);"><defs/><g transform="translate(0.5,0.5)"><ellipse cx="146" cy="15" rx="40" ry="15" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(131.5,8.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="28" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 30px; white-space: nowrap; word-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Inicio</div></div></foreignObject><text x="14" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Inicio</text></switch></g><path d="M 147 110 L 147 100 L 147 133.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 147 138.88 L 143.5 131.88 L 147 133.63 L 150.5 131.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><rect x="0" y="60" width="293" height="50" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(1.5,64.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="289" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 289px; white-space: normal; word-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Declara array com bases, base original, base convertida, e gera aleatoriamente<div>um valor para cada base</div></div></div></foreignObject><text x="145" y="26" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Declara array com bases, base original, base convertida, e gera aleatoriamente&lt;div&gt;um valor para cada base&lt;/div&gt;</text></switch></g><ellipse cx="146" cy="375" rx="40" ry="15" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(135.5,368.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="20" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 21px; white-space: nowrap; word-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Fim</div></div></foreignObject><text x="10" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Fim</text></switch></g><rect x="29" y="140" width="235" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(63.5,153.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="165" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 165px; white-space: nowrap; word-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Retorna a base original gerada</div></div></foreignObject><text x="83" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Retorna a base original gerada</text></switch></g><path d="M 146 30 L 146.79 53.64" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 146.96 58.88 L 143.23 52 L 146.79 53.64 L 150.23 51.77 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><rect x="23" y="210" width="247" height="50" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(24.5,214.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="243" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 243px; white-space: normal; word-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Percorre o array para remover a base previamente gerada para que <div>não se repita</div></div></div></foreignObject><text x="122" y="26" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Percorre o array para remover a base previamente gerada para que&amp;nbsp;&lt;div&gt;não se repita&lt;/div&gt;</text></switch></g><path d="M 147 180 L 147 203.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 147 208.88 L 143.5 201.88 L 147 203.63 L 150.5 201.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><rect x="29" y="290" width="235" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(44.5,303.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="203" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 205px; white-space: nowrap; word-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Retorna a base para converter gerada</div></div></foreignObject><text x="102" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Retorna a base para converter gerada</text></switch></g><path d="M 147 260 L 146.76 283.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 146.71 288.88 L 143.28 281.85 L 146.76 283.63 L 150.28 281.92 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 146 330 L 146 353.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 146 358.88 L 142.5 351.88 L 146 353.63 L 149.5 351.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="14cm" height="24cm" viewBox="445 5 278 476" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <path style="fill: #ffffff" d="M 544.667 6 L 623.333,6 C 634.195,6 643,14.5066 643,25 C 643,35.4934 634.195,44 623.333,44 L 544.667,44 C 533.805,44 525,35.4934 525,25 C 525,14.5066 533.805,6 544.667,6z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 544.667 6 L 623.333,6 C 634.195,6 643,14.5066 643,25 C 643,35.4934 634.195,44 623.333,44 L 544.667,44 C 533.805,44 525,35.4934 525,25 C 525,14.5066 533.805,6 544.667,6"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="584" y="30">
+      <tspan x="584" y="30">Início</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="446.887" y="69" width="275.113" height="70"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="446.887" y="69" width="275.113" height="70"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="584.444" y="92.8">
+      <tspan x="584.444" y="92.8">Declara array com bases, base original, </tspan>
+      <tspan x="584.444" y="108.8">base convertida, e gera aleatoriamente</tspan>
+      <tspan x="584.444" y="124.8">um valor para cada base</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="584" y1="44" x2="584.271" y2="59.2655"/>
+    <polygon style="fill: #000000" points="584.404,66.7643 579.227,56.8546 584.271,59.2655 589.226,56.6771 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="584.404,66.7643 579.227,56.8546 584.271,59.2655 589.226,56.6771 "/>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 540.567 441 L 619.233,441 C 630.095,441 638.9,449.507 638.9,460 C 638.9,470.493 630.095,479 619.233,479 L 540.567,479 C 529.705,479 520.9,470.493 520.9,460 C 520.9,449.507 529.705,441 540.567,441z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 540.567 441 L 619.233,441 C 630.095,441 638.9,449.507 638.9,460 C 638.9,470.493 630.095,479 619.233,479 L 540.567,479 C 529.705,479 520.9,470.493 520.9,460 C 520.9,449.507 529.705,441 540.567,441"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="579.9" y="465">
+      <tspan x="579.9" y="465">Fim</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="584.444" y1="139" x2="583.443" y2="161.272"/>
+    <polygon style="fill: #000000" points="583.106,168.764 578.56,158.55 583.443,161.272 588.55,158.999 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="583.106,168.764 578.56,158.55 583.443,161.272 588.55,158.999 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="580.555" y1="402.006" x2="580.064" y2="431.265"/>
+    <polygon style="fill: #000000" points="579.938,438.764 575.106,428.682 580.064,431.265 585.105,428.85 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="579.938,438.764 575.106,428.682 580.064,431.265 585.105,428.85 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="464.9" y="172" width="234.1" height="45"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="464.9" y="172" width="234.1" height="45"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="581.95" y="199.3">
+      <tspan x="581.95" y="199.3">Retorna a base original gerada</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="462.55" y="356" width="236.8" height="45"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="462.55" y="356" width="236.8" height="45"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="580.95" y="383.3">
+      <tspan x="580.95" y="383.3">Retorna a base para converter gerada</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="464.9" y="250.5" width="236.8" height="70"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="464.9" y="250.5" width="236.8" height="70"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="583.3" y="274.3">
+      <tspan x="583.3" y="274.3">Percorre o array para remover a base</tspan>
+      <tspan x="583.3" y="290.3">previamente gerada para que</tspan>
+      <tspan x="583.3" y="306.3">não se repita</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="582.298" y1="217.983" x2="582.621" y2="239.763"/>
+    <polygon style="fill: #000000" points="582.733,247.262 577.585,237.337 582.621,239.763 587.584,237.189 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="582.733,247.262 577.585,237.337 582.621,239.763 587.584,237.189 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="582.391" y1="321.488" x2="581.79" y2="345.262"/>
+    <polygon style="fill: #000000" points="581.6,352.759 576.855,342.636 581.79,345.262 586.851,342.889 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="581.6,352.759 576.855,342.636 581.79,345.262 586.851,342.889 "/>
+  </g>
+</svg>

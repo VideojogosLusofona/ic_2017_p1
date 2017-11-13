@@ -1,3 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="236px" height="201px" version="1.1" content="&lt;mxfile userAgent=&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36&quot; version=&quot;7.6.7&quot; editor=&quot;www.draw.io&quot; type=&quot;device&quot;&gt;&lt;diagram id=&quot;8a7987d4-787e-c3ba-eb2c-7b089affd1c4&quot; name=&quot;Page-1&quot;&gt;zVZdb9owFP01kdqXCWwC9HEwyiZt0jQetj56iZt4c3KRYz6yX7/r2iYfpm2klqpIEPv46/qcc2+I6LI4rhXb5t8g5TIio/QY0U8RIbP5FH8NUFtgMhlZIFMitdC4ATbiH3egn7YTKa86EzWA1GLbBRMoS57oDsaUgkN32j3I7qlblvEA2CRMhuhPkerconMya/DPXGS5P3k8vbEjv1nyN1OwK915EaH3Dx87XDC/l7tolbMUDi2IriK6VADatorjkktDrafNrrt9ZPQUt+KlHrKA2AV7Jnfu6l9KkQhw0enaM4LLkHzsLA650HyzZYkZOaD8iOW6kNgbYzOMwAW150rzYwtyEa05FFyrGqe4UUodO3XXFYeWFA7KWyr4VcyJn502bgjAhuPgPB/xOLx5itZwXVA6hwxKJlcNunjQm5sdRl0u+FHoXwb+ELvenR8pMbDWkOneuQ3+cK1rlxNspwGh5tyvANvnmK5gpxIXPbWQucST1CsumRb7rv/PMemWfgeBpzaSzXqSkZ4YmqmMa7eqp8cpjEES0cCya66YRUCZIyVnOlrSaEGVcfLIsMvxOTJt/JI4jshUImmLVOyxmZnm1dzkr9DVNT6vkpypaz8LQ2pNDBzS1f/y+UFi2iF7GuYHoXGYIJNXSJBJwH6YMGX60dRg7CWSVZVIhmbFIEeTgY5usRGfqRYee6nxxz3j3/RItqEHxn82g6YXSyD/rmppeCuK91Xx529X8j3vl7H0U4X+UeKs1l213ovf+4W+79Ohfj9Vo9oXtYsZfjYLFP7BNaiy9dZ4eUkP3H5G2sEl/fT+vEBNx27zB9PS2fyJp6v/&lt;/diagram&gt;&lt;/mxfile&gt;" resource="https://www.draw.io/?title=Copy%20of%20Funcao_perguntaNums.svg&amp;client=1" style="background-color: rgb(255, 255, 255);"><defs/><g transform="translate(0.5,0.5)"><ellipse cx="117" cy="15" rx="40" ry="15" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(102.5,8.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="28" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 30px; white-space: nowrap; word-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Inicio</div></div></foreignObject><text x="14" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Inicio</text></switch></g><path d="M 118 90 L 117 90 L 117 103.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 117 108.88 L 113.5 101.88 L 117 103.63 L 120.5 101.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><rect x="0" y="50" width="235" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(27.5,56.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="179" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 181px; white-space: nowrap; word-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Gera valor aleatório entre 0 e 255<div>(8 bits) (char)</div></div></div></foreignObject><text x="90" y="19" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Gera valor aleatório entre 0 e 255&lt;div&gt;(8 bits) (char)&lt;/div&gt;</text></switch></g><path d="M 117 30 L 117 43.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 117 48.88 L 113.5 41.88 L 117 43.63 L 120.5 41.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><ellipse cx="117" cy="185" rx="40" ry="15" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(106.5,178.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="20" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 21px; white-space: nowrap; word-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Fim</div></div></foreignObject><text x="10" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Fim</text></switch></g><path d="M 117 150 L 117 163.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 117 168.88 L 113.5 161.88 L 117 163.63 L 120.5 161.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><rect x="0" y="110" width="235" height="40" fill="#ffffff" stroke="#000000" pointer-events="none"/><g transform="translate(80.5,123.5)"><switch><foreignObject style="overflow:visible;" pointer-events="all" width="73" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 73px; white-space: nowrap; word-wrap: normal; text-align: center;"><div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Retorna valor</div></div></foreignObject><text x="37" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">Retorna valor</text></switch></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="14cm" height="15cm" viewBox="446 5 273 294" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <path style="fill: #ffffff" d="M 544.667 6 L 623.333,6 C 634.195,6 643,14.5066 643,25 C 643,35.4934 634.195,44 623.333,44 L 544.667,44 C 533.805,44 525,35.4934 525,25 C 525,14.5066 533.805,6 544.667,6z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 544.667 6 L 623.333,6 C 634.195,6 643,14.5066 643,25 C 643,35.4934 634.195,44 623.333,44 L 544.667,44 C 533.805,44 525,35.4934 525,25 C 525,14.5066 533.805,6 544.667,6"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="584" y="30">
+      <tspan x="584" y="30">Início</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="449" y="74" width="269.075" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="449" y="74" width="269.075" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="583.537" y="97.8">
+      <tspan x="583.537" y="97.8">Gera valor aleatório entre 0 e 255</tspan>
+      <tspan x="583.537" y="113.8">(8 bits) (unsigned char)</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="584" y1="44" x2="583.688" y2="64.2651"/>
+    <polygon style="fill: #000000" points="583.572,71.7642 578.727,61.6883 583.688,64.2651 588.726,61.8425 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="583.572,71.7642 578.727,61.6883 583.688,64.2651 588.726,61.8425 "/>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M 543.567 260 L 622.233,260 C 633.095,260 641.9,268.507 641.9,279 C 641.9,289.493 633.095,298 622.233,298 L 543.567,298 C 532.705,298 523.9,289.493 523.9,279 C 523.9,268.507 532.705,260 543.567,260z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 543.567 260 L 622.233,260 C 633.095,260 641.9,268.507 641.9,279 C 641.9,289.493 633.095,298 622.233,298 L 543.567,298 C 532.705,298 523.9,289.493 523.9,279 C 523.9,268.507 532.705,260 543.567,260"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="582.9" y="284">
+      <tspan x="582.9" y="284">Fim</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="583.537" y1="128" x2="583.086" y2="154.258"/>
+    <polygon style="fill: #000000" points="582.957,161.756 578.13,151.672 583.086,154.258 588.128,151.844 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="582.957,161.756 578.13,151.672 583.086,154.258 588.128,151.844 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="582.628" y1="219.999" x2="582.834" y2="250.264"/>
+    <polygon style="fill: #000000" points="582.885,257.764 577.817,247.798 582.834,250.264 587.817,247.73 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="582.885,257.764 577.817,247.798 582.834,250.264 587.817,247.73 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="447.9" y="165" width="269.075" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="447.9" y="165" width="269.075" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="582.438" y="196.8">
+      <tspan x="582.438" y="196.8">Retorna valor</tspan>
+    </text>
+  </g>
+</svg>
