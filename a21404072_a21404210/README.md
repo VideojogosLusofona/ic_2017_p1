@@ -9,7 +9,7 @@
 
 ## Solução:
 
-![Fluxograma](http://i64.tinypic.com/rurzgj.png)
+![Fluxograma](http://i68.tinypic.com/ftkfo8.png)
 
 > Utilizou-se um switch (para cada tipo de pergunta), dentro de um ciclo for (para o número desejado de perguntas)
 
